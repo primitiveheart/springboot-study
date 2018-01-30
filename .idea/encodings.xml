@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-freemarker" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-properties" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-redis" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-start-quick" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-validate-over-json" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-vue-spring-security" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springboot-vue-springsecurity" charset="UTF-8" />
+  </component>
+</project>
